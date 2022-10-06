@@ -1,6 +1,2 @@
 # Getting-Started
-#include <stdio.h>
-int main (void)
-{
-printf("Welcome to C!");
-}
+THERE'S A FIRST TIME TO EVERYTHING
